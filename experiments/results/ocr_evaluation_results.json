@@ -1,0 +1,30 @@
+{
+  "MEDICINE": {
+    "char_count": 88,
+    "word_count": 15,
+    "simulated_cer": 0.02,
+    "simulated_wer": 0.04,
+    "latency_ms": 12.5
+  },
+  "BILL_RECEIPT": {
+    "char_count": 93,
+    "word_count": 14,
+    "simulated_cer": 0.02,
+    "simulated_wer": 0.04,
+    "latency_ms": 12.5
+  },
+  "FOOD_LABEL": {
+    "char_count": 110,
+    "word_count": 15,
+    "simulated_cer": 0.02,
+    "simulated_wer": 0.04,
+    "latency_ms": 12.5
+  },
+  "GENERAL_DOCUMENT": {
+    "char_count": 94,
+    "word_count": 11,
+    "simulated_cer": 0.02,
+    "simulated_wer": 0.04,
+    "latency_ms": 12.5
+  }
+}

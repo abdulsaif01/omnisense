@@ -1,0 +1,38 @@
+# Miscellaneous
+*.apk
+*.aab
+*.keystore
+*.jks
+*.dill
+*.db
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+*.iml
+
+# Android
+android/.gradle/
+android/local.properties
+android/app/debug/
+android/app/profile/
+android/app/release/
+.gradle/
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+*.DS_Store
+Thumbs.db

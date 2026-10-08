@@ -1,0 +1,98 @@
+[
+  {
+    "text": "Detect differences between the previous scan and now.",
+    "intent": "CHANGE_DETECTION"
+  },
+  {
+    "text": "Cancel current task.",
+    "intent": "APP_CONTROL"
+  },
+  {
+    "text": "Read this text aloud.",
+    "intent": "DOCUMENT_READING"
+  },
+  {
+    "text": "Keep a record that my phone is on the sofa.",
+    "intent": "MEMORY_STORE"
+  },
+  {
+    "text": "Check for obstructions on the hallway path.",
+    "intent": "HAZARD_QUERY"
+  },
+  {
+    "text": "Purge all local database files.",
+    "intent": "PRIVACY_REQUEST"
+  },
+  {
+    "text": "Are you ready?",
+    "intent": "GENERAL_QUERY"
+  },
+  {
+    "text": "Give me a tutorial on how to ask questions.",
+    "intent": "ROUTINE_QUERY"
+  },
+  {
+    "text": "What is written on this sheet of paper?",
+    "intent": "DOCUMENT_READING"
+  },
+  {
+    "text": "Save the location of my glasses on the nightstand.",
+    "intent": "MEMORY_STORE"
+  },
+  {
+    "text": "Read the allergen warning on this food label.",
+    "intent": "FOOD_LABEL_READING"
+  },
+  {
+    "text": "Disable memory retention mode.",
+    "intent": "PRIVACY_REQUEST"
+  },
+  {
+    "text": "What food items expire this week?",
+    "intent": "EXPIRY_QUERY"
+  },
+  {
+    "text": "Is this medicine expired?",
+    "intent": "EXPIRY_QUERY"
+  },
+  {
+    "text": "Where did I place my laptop charger?",
+    "intent": "MEMORY_RETRIEVE"
+  },
+  {
+    "text": "How many times a day should I take this medicine?",
+    "intent": "MEDICINE_READING"
+  },
+  {
+    "text": "Start a guided task to find my office keys.",
+    "intent": "TASK_ASSISTANCE"
+  },
+  {
+    "text": "Walk me through finding my keys.",
+    "intent": "TASK_ASSISTANCE"
+  },
+  {
+    "text": "Read the store name and bill amount.",
+    "intent": "BILL_READING"
+  },
+  {
+    "text": "Is it safe to walk forward?",
+    "intent": "HAZARD_QUERY"
+  },
+  {
+    "text": "What object am I holding?",
+    "intent": "OBJECT_IDENTIFICATION"
+  },
+  {
+    "text": "Describe my surroundings.",
+    "intent": "SCENE_DESCRIPTION"
+  },
+  {
+    "text": "Check for changes between these two observations.",
+    "intent": "CHANGE_DETECTION"
+  },
+  {
+    "text": "Nice to meet you.",
+    "intent": "GENERAL_QUERY"
+  }
+]

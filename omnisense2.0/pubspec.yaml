@@ -1,0 +1,32 @@
+name: omnisense
+description: Accessibility-first Android visual assistant for indoor assistance powered by local on-device AI.
+publish_to: "none"
+version: 0.1.0+1
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  camera: ^0.11.0+2
+  connectivity_plus: ^6.1.4
+  flutter_tts: ^4.0.2
+  http: ^1.2.2
+  permission_handler: ^11.3.1
+  shared_preferences: ^2.3.3
+  speech_to_text: ^7.0.0
+  sqflite: ^2.3.3+1
+  path: ^1.9.0
+  flutter_local_notifications: ^17.2.2
+  vibration: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/models/

@@ -1,0 +1,450 @@
+[
+  {
+    "text": "What products expire today in my log?",
+    "intent": "EXPIRY_QUERY"
+  },
+  {
+    "text": "Stop speaking now.",
+    "intent": "APP_CONTROL"
+  },
+  {
+    "text": "What commands are supported by OmniSense?",
+    "intent": "ROUTINE_QUERY"
+  },
+  {
+    "text": "Check the dosage instructions on this pill container.",
+    "intent": "MEDICINE_READING"
+  },
+  {
+    "text": "Help me inspect the kitchen counter.",
+    "intent": "TASK_ASSISTANCE"
+  },
+  {
+    "text": "Read the total amount on this receipt.",
+    "intent": "BILL_READING"
+  },
+  {
+    "text": "Has any item disappeared from the desk?",
+    "intent": "CHANGE_DETECTION"
+  },
+  {
+    "text": "Reset all user privacy settings.",
+    "intent": "PRIVACY_REQUEST"
+  },
+  {
+    "text": "What is the payment amount due on this paper?",
+    "intent": "BILL_READING"
+  },
+  {
+    "text": "Store the position of my backpack in memory.",
+    "intent": "MEMORY_STORE"
+  },
+  {
+    "text": "Awesome job.",
+    "intent": "GENERAL_QUERY"
+  },
+  {
+    "text": "Can you read this paper for me?",
+    "intent": "DOCUMENT_READING"
+  },
+  {
+    "text": "Detect potential indoor safety hazards.",
+    "intent": "HAZARD_QUERY"
+  },
+  {
+    "text": "Where was my watch last seen?",
+    "intent": "MEMORY_RETRIEVE"
+  },
+  {
+    "text": "Have you seen my office keys anywhere?",
+    "intent": "MEMORY_RETRIEVE"
+  },
+  {
+    "text": "What food item is inside this container?",
+    "intent": "FOOD_LABEL_READING"
+  },
+  {
+    "text": "What items were added to the counter since yesterday?",
+    "intent": "CHANGE_DETECTION"
+  },
+  {
+    "text": "Compare the table now with how it was before.",
+    "intent": "CHANGE_DETECTION"
+  },
+  {
+    "text": "What can you do for me?",
+    "intent": "ROUTINE_QUERY"
+  },
+  {
+    "text": "What does this letter say?",
+    "intent": "DOCUMENT_READING"
+  },
+  {
+    "text": "How do I use the visual memory feature?",
+    "intent": "ROUTINE_QUERY"
+  },
+  {
+    "text": "Tell me what changed in this room.",
+    "intent": "CHANGE_DETECTION"
+  },
+  {
+    "text": "Say that again.",
+    "intent": "APP_CONTROL"
+  },
+  {
+    "text": "Can you find my glasses?",
+    "intent": "MEMORY_RETRIEVE"
+  },
+  {
+    "text": "Are there sharp objects or dangerous items nearby?",
+    "intent": "HAZARD_QUERY"
+  },
+  {
+    "text": "Can you hear me?",
+    "intent": "GENERAL_QUERY"
+  },
+  {
+    "text": "Check if there is a spill or tripping hazard ahead.",
+    "intent": "HAZARD_QUERY"
+  },
+  {
+    "text": "What is the final total printed on this bill?",
+    "intent": "BILL_READING"
+  },
+  {
+    "text": "Read the best before date on this package.",
+    "intent": "EXPIRY_QUERY"
+  },
+  {
+    "text": "Help me understand how the camera assistant works.",
+    "intent": "ROUTINE_QUERY"
+  },
+  {
+    "text": "Where did I put my water bottle?",
+    "intent": "MEMORY_RETRIEVE"
+  },
+  {
+    "text": "Check if this yogurt is past its expiry date.",
+    "intent": "EXPIRY_QUERY"
+  },
+  {
+    "text": "Can you identify this item?",
+    "intent": "OBJECT_IDENTIFICATION"
+  },
+  {
+    "text": "Tell me the calories on this snack wrapper.",
+    "intent": "FOOD_LABEL_READING"
+  },
+  {
+    "text": "Scan and read the contents of this letter.",
+    "intent": "DOCUMENT_READING"
+  },
+  {
+    "text": "What objects are visible in front of the camera?",
+    "intent": "SCENE_DESCRIPTION"
+  },
+  {
+    "text": "Is my water bottle missing from the table?",
+    "intent": "CHANGE_DETECTION"
+  },
+  {
+    "text": "Remember that my charger is on the shelf.",
+    "intent": "MEMORY_STORE"
+  },
+  {
+    "text": "When does this milk expire?",
+    "intent": "EXPIRY_QUERY"
+  },
+  {
+    "text": "Is this a cup or a bottle?",
+    "intent": "OBJECT_IDENTIFICATION"
+  },
+  {
+    "text": "What time is it?",
+    "intent": "GENERAL_QUERY"
+  },
+  {
+    "text": "Give me a quick visual overview of the scene.",
+    "intent": "SCENE_DESCRIPTION"
+  },
+  {
+    "text": "What is this thing on the desk?",
+    "intent": "OBJECT_IDENTIFICATION"
+  },
+  {
+    "text": "Name the object right here.",
+    "intent": "OBJECT_IDENTIFICATION"
+  },
+  {
+    "text": "Read the side effects and medicine name.",
+    "intent": "MEDICINE_READING"
+  },
+  {
+    "text": "Did anything change on the table since earlier?",
+    "intent": "CHANGE_DETECTION"
+  },
+  {
+    "text": "Erase all personal data from the database.",
+    "intent": "PRIVACY_REQUEST"
+  },
+  {
+    "text": "Locate my wallet for me.",
+    "intent": "MEMORY_RETRIEVE"
+  },
+  {
+    "text": "Repeat the last response.",
+    "intent": "APP_CONTROL"
+  },
+  {
+    "text": "Check if there is sugar listed in the ingredients.",
+    "intent": "FOOD_LABEL_READING"
+  },
+  {
+    "text": "Read the due date on this electric bill.",
+    "intent": "BILL_READING"
+  },
+  {
+    "text": "Is there an open drawer near me?",
+    "intent": "HAZARD_QUERY"
+  },
+  {
+    "text": "Good morning assistant.",
+    "intent": "GENERAL_QUERY"
+  },
+  {
+    "text": "What is in front of me?",
+    "intent": "SCENE_DESCRIPTION"
+  },
+  {
+    "text": "What are the ingredients listed on this package?",
+    "intent": "FOOD_LABEL_READING"
+  },
+  {
+    "text": "Where did I leave my keys?",
+    "intent": "MEMORY_RETRIEVE"
+  },
+  {
+    "text": "Read the instructions on this medicine bottle.",
+    "intent": "MEDICINE_READING"
+  },
+  {
+    "text": "Start an interactive search for my wallet.",
+    "intent": "TASK_ASSISTANCE"
+  },
+  {
+    "text": "Are there any hazards on the floor?",
+    "intent": "HAZARD_QUERY"
+  },
+  {
+    "text": "Remove my saved locations from storage.",
+    "intent": "PRIVACY_REQUEST"
+  },
+  {
+    "text": "List the available features.",
+    "intent": "ROUTINE_QUERY"
+  },
+  {
+    "text": "Please parse and read the text on this printed document.",
+    "intent": "DOCUMENT_READING"
+  },
+  {
+    "text": "Tell me what objects are on the table.",
+    "intent": "SCENE_DESCRIPTION"
+  },
+  {
+    "text": "Can you tell me what object this is?",
+    "intent": "OBJECT_IDENTIFICATION"
+  },
+  {
+    "text": "Guide me through finding my water bottle.",
+    "intent": "TASK_ASSISTANCE"
+  },
+  {
+    "text": "Does this food product contain peanuts or gluten?",
+    "intent": "FOOD_LABEL_READING"
+  },
+  {
+    "text": "Clear stored image feature embeddings.",
+    "intent": "PRIVACY_REQUEST"
+  },
+  {
+    "text": "Initiate task assistance to scan the shelf.",
+    "intent": "TASK_ASSISTANCE"
+  },
+  {
+    "text": "Remember that I left my watch on the dining table.",
+    "intent": "MEMORY_STORE"
+  },
+  {
+    "text": "Mute audio output.",
+    "intent": "APP_CONTROL"
+  },
+  {
+    "text": "Store this item as my water bottle.",
+    "intent": "MEMORY_STORE"
+  },
+  {
+    "text": "Help me locate my glasses step by step.",
+    "intent": "TASK_ASSISTANCE"
+  },
+  {
+    "text": "Turn up speech rate.",
+    "intent": "APP_CONTROL"
+  },
+  {
+    "text": "Remember this as my office keys on the desk.",
+    "intent": "MEMORY_STORE"
+  },
+  {
+    "text": "Tell me what this object is called.",
+    "intent": "OBJECT_IDENTIFICATION"
+  },
+  {
+    "text": "Show me all items that are past expiry.",
+    "intent": "EXPIRY_QUERY"
+  },
+  {
+    "text": "Hi OmniSense.",
+    "intent": "GENERAL_QUERY"
+  },
+  {
+    "text": "Assist me with a multi-step indoor search task.",
+    "intent": "TASK_ASSISTANCE"
+  },
+  {
+    "text": "Wipe my remembered object history.",
+    "intent": "PRIVACY_REQUEST"
+  },
+  {
+    "text": "Pause audio.",
+    "intent": "APP_CONTROL"
+  },
+  {
+    "text": "Tell me the dosage for this tablet box.",
+    "intent": "MEDICINE_READING"
+  },
+  {
+    "text": "Read the active ingredients on this pharma pack.",
+    "intent": "MEDICINE_READING"
+  },
+  {
+    "text": "Who created OmniSense?",
+    "intent": "GENERAL_QUERY"
+  },
+  {
+    "text": "What does the room look like right now?",
+    "intent": "SCENE_DESCRIPTION"
+  },
+  {
+    "text": "Where are my headphones?",
+    "intent": "MEMORY_RETRIEVE"
+  },
+  {
+    "text": "Read out the content of this page.",
+    "intent": "DOCUMENT_READING"
+  },
+  {
+    "text": "Clear my location history and images.",
+    "intent": "PRIVACY_REQUEST"
+  },
+  {
+    "text": "Can you read the pill box label?",
+    "intent": "MEDICINE_READING"
+  },
+  {
+    "text": "Save this visual object as my house keys.",
+    "intent": "MEMORY_STORE"
+  },
+  {
+    "text": "When is the use by date for this juice bottle?",
+    "intent": "EXPIRY_QUERY"
+  },
+  {
+    "text": "Can you read the items and prices on this store receipt?",
+    "intent": "BILL_READING"
+  },
+  {
+    "text": "Read the nutritional information panel on this box.",
+    "intent": "FOOD_LABEL_READING"
+  },
+  {
+    "text": "Check the expiration date on this bottle.",
+    "intent": "EXPIRY_QUERY"
+  },
+  {
+    "text": "Hello, how are you?",
+    "intent": "GENERAL_QUERY"
+  },
+  {
+    "text": "Guide me to locate my phone on the desk.",
+    "intent": "TASK_ASSISTANCE"
+  },
+  {
+    "text": "Read the headline and paragraph on this paper.",
+    "intent": "DOCUMENT_READING"
+  },
+  {
+    "text": "How does expiry tracking work?",
+    "intent": "ROUTINE_QUERY"
+  },
+  {
+    "text": "Stop speech output.",
+    "intent": "APP_CONTROL"
+  },
+  {
+    "text": "Describe the room around me.",
+    "intent": "SCENE_DESCRIPTION"
+  },
+  {
+    "text": "Is the floor in front of me clear of obstacles?",
+    "intent": "HAZARD_QUERY"
+  },
+  {
+    "text": "Show me how to save visual object locations.",
+    "intent": "ROUTINE_QUERY"
+  },
+  {
+    "text": "Is this Paracetamol or Ibuprofen?",
+    "intent": "MEDICINE_READING"
+  },
+  {
+    "text": "Scan the floor for low lying trip hazards.",
+    "intent": "HAZARD_QUERY"
+  },
+  {
+    "text": "Remember that I put my headphones on the bed.",
+    "intent": "MEMORY_STORE"
+  },
+  {
+    "text": "Scan the food label for allergen warnings.",
+    "intent": "FOOD_LABEL_READING"
+  },
+  {
+    "text": "Delete my expiry history records.",
+    "intent": "PRIVACY_REQUEST"
+  },
+  {
+    "text": "Show me what objects were moved.",
+    "intent": "CHANGE_DETECTION"
+  },
+  {
+    "text": "What am I pointing the camera at?",
+    "intent": "OBJECT_IDENTIFICATION"
+  },
+  {
+    "text": "How much is the total bill?",
+    "intent": "BILL_READING"
+  },
+  {
+    "text": "Read the text on this document.",
+    "intent": "DOCUMENT_READING"
+  },
+  {
+    "text": "Can you give me a summary of what you see?",
+    "intent": "SCENE_DESCRIPTION"
+  },
+  {
+    "text": "Check the tax and subtotal on this receipt.",
+    "intent": "BILL_READING"
+  }
+]

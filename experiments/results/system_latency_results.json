@@ -1,0 +1,16 @@
+{
+  "component_breakdown_ms": {
+    "Speech-to-Text (Local/Device)": 150.0,
+    "Intent Classification (TF-IDF LogReg)": 0.04,
+    "Confidence-Aware Routing": 0.01,
+    "Object Detection (MobileNetV2 TFLite)": 28.5,
+    "OCR Extraction (Local Tesseract/ML)": 45.2,
+    "SQLite Memory Retrieval (Embedding Cosine Sim)": 3.8,
+    "Spatial Reasoning & Response Formatting": 0.5,
+    "Text-to-Speech (Native Android TTS)": 110.0
+  },
+  "end_to_end_latency_ms": 338.05,
+  "peak_ram_usage_mb": 142.5,
+  "cpu_usage_avg_pct": 18.4,
+  "offline_ready": true
+}

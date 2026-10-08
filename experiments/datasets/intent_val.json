@@ -1,0 +1,98 @@
+[
+  {
+    "text": "Delete all my stored visual memories.",
+    "intent": "PRIVACY_REQUEST"
+  },
+  {
+    "text": "Thank you for your help.",
+    "intent": "GENERAL_QUERY"
+  },
+  {
+    "text": "Read the printed text visible here.",
+    "intent": "DOCUMENT_READING"
+  },
+  {
+    "text": "What objects were moved or removed?",
+    "intent": "CHANGE_DETECTION"
+  },
+  {
+    "text": "What medicine is this package?",
+    "intent": "MEDICINE_READING"
+  },
+  {
+    "text": "Is there any open cabinet door in front of me?",
+    "intent": "HAZARD_QUERY"
+  },
+  {
+    "text": "What kind of device is this?",
+    "intent": "OBJECT_IDENTIFICATION"
+  },
+  {
+    "text": "Remember where my wallet is right now.",
+    "intent": "MEMORY_STORE"
+  },
+  {
+    "text": "Decrease volume.",
+    "intent": "APP_CONTROL"
+  },
+  {
+    "text": "What vendor issued this store receipt?",
+    "intent": "BILL_READING"
+  },
+  {
+    "text": "Read the label on this milk carton.",
+    "intent": "FOOD_LABEL_READING"
+  },
+  {
+    "text": "Explain how to scan medicine labels.",
+    "intent": "ROUTINE_QUERY"
+  },
+  {
+    "text": "What is around me in this room?",
+    "intent": "SCENE_DESCRIPTION"
+  },
+  {
+    "text": "Where is my phone located?",
+    "intent": "MEMORY_RETRIEVE"
+  },
+  {
+    "text": "What is the strength of this medication?",
+    "intent": "MEDICINE_READING"
+  },
+  {
+    "text": "What capabilities does OmniSense offer?",
+    "intent": "ROUTINE_QUERY"
+  },
+  {
+    "text": "Increase volume.",
+    "intent": "APP_CONTROL"
+  },
+  {
+    "text": "Help me find my medicine step by step.",
+    "intent": "TASK_ASSISTANCE"
+  },
+  {
+    "text": "Scan the area and tell me what is present.",
+    "intent": "SCENE_DESCRIPTION"
+  },
+  {
+    "text": "Tell me where my backpack was stored.",
+    "intent": "MEMORY_RETRIEVE"
+  },
+  {
+    "text": "Read this payment receipt for me.",
+    "intent": "BILL_READING"
+  },
+  {
+    "text": "Identify the item in my hand.",
+    "intent": "OBJECT_IDENTIFICATION"
+  },
+  {
+    "text": "List all upcoming expiring medicines.",
+    "intent": "EXPIRY_QUERY"
+  },
+  {
+    "text": "Read the nutritional values on this food box.",
+    "intent": "FOOD_LABEL_READING"
+  }
+]
